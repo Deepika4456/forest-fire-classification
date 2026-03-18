@@ -73,6 +73,13 @@ Classify fire intensity into:
 - Scikit-learn  
 
 ---
+## 📊 Results
+- Model successfully classified fire intensity levels  
+- Random Forest performed better than Decision Tree  
+- Achieved good accuracy on test data
+- ## 📸 Project Preview
+![Output](output<img width="1901" height="893" alt="Screenshot 2026-03-18 204653" src="https://github.com/user-attachments/assets/74fb7340-2940-424f-8e7d-b0ab577c02d1" />
+.png)
 
 ## 🚀 How to Run
 ```bash
