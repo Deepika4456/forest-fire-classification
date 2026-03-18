@@ -1,5 +1,7 @@
 # 🔥 Brazil Forest Fire Classification  
-
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Machine Learning](https://img.shields.io/badge/ML-Model-green)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 
 🚀 A Machine Learning project to classify forest fire intensity in Brazil using historical data.
