@@ -78,7 +78,8 @@ Classify fire intensity into:
 - Random Forest performed better than Decision Tree  
 - Achieved good accuracy on test data
 - ## 📸 Project Preview
-![Output](output<img width="1901" height="893" alt="Screenshot 2026-03-18 204653" src="https://github.com/user-attachments/assets/74fb7340-2940-424f-8e7d-b0ab577c02d1" />
+![Output](output<img width="1901" height="893" alt="Screenshot 2026-03-18 204653" src="https://github.com/user-attachments/assets/74fb7340-2940-424f-8e7d-b0ab577c02d1" /><img width="1905" height="926" alt="Screenshot 2026-03-18 204714" src="https://github.com/user-attachments/assets/448e630f-2d5c-490a-aa45-16a625a55bb1" />
+
 .png)
 
 ## 🚀 How to Run
